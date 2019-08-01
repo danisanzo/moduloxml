@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+    <empleado>
+        <nombre>Federico</nombre>
+        <apellido>Gómez</apellido>
+        <numContacto>666555444</numContacto>
+        <email>fede@rico.es</email>
+        <direccion>
+            <ciudad>Santander</ciudad>
+            <estado>Cantabria</estado>
+            <cp>39001</cp>
+        </direccion>
+    </empleado>
+    <empleado>
+        <nombre>Antonio</nombre>
+        <apellido>Banderas</apellido>
+        <numContacto>664787878</numContacto>
+        <email>carlos@tiones.com</email>
+        <direccion>
+            <ciudad>Santander</ciudad>
+            <estado>Cantabria</estado>
+            <cp>39002</cp>
+        </direccion>
+    </empleado>
+</empresa>
